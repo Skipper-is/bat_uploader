@@ -1,0 +1,8 @@
+main.build
+main.dist
+main.onefile-build
+build
+dist
+main.cmd
+main.exe
+walk.py
